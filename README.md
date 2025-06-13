@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Elkana Lang'at!</h1>
+<h1 align="center">🧠 Elkana Lang'at | Exploring the Edge of Cloud Security and Cyber Intelligence</h1>
 
 <p align="center">
   <em>Cloud Security | Identity & Access Management | Ethical Hacking</em><br>
